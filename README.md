@@ -1,3 +1,5 @@
+## Read [Project Documentation](https://github.com/MovieTrender/Documentation "Project Documentation")
+
 ##SentimentModel
 
 Model generated with Mahout for calculating the sentiment in tweets.
