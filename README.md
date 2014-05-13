@@ -59,6 +59,8 @@ Any tweet with the following emoticon was considered Positive:
   
 ###Negative Tweets
 
+Any tweet with the following emoticon was considered Negative:
+
 	:-(
     :(
     :[
