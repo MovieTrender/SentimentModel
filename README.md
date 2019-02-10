@@ -1,13 +1,13 @@
 ## Read [Project Documentation](https://github.com/MovieTrender/Documentation "Project Documentation")
 
-##SentimentModel
+## SentimentModel
 
 Model generated with Mahout for calculating the sentiment in tweets.
 This model was generated with 3 Millions of tweets.
 
 For the training 80% of the tweets was used, remaining 20% was used for testing the model.
 
-##Accuracy
+## Accuracy
 
 	=======================================================
 	Summary
@@ -32,16 +32,16 @@ For the training 80% of the tweets was used, remaining 20% was used for testing 
 	Reliability (standard deviation)            0,4991
 
 
-##Manual Classification
+## Manual Classification
 
 The manual classification of the tweets was done based in emoticons.
 
-###Positive Tweets
+### Positive Tweets
 
 Any tweet with the following emoticon was considered Positive:
 
-	:)
-	:-)
+    :)
+    :-)
     :]
     =)
     ;)
@@ -57,11 +57,11 @@ Any tweet with the following emoticon was considered Positive:
     =p
     ^_^
   
-###Negative Tweets
+### Negative Tweets
 
 Any tweet with the following emoticon was considered Negative:
 
-	:-(
+    :-(
     :(
     :[
     (TT)
